@@ -69,7 +69,7 @@ INSERT INTO `me_comment` VALUES ('2', '啦啦啦', '2018-01-31 16:12:31', '1', '
 -- Records of me_tag
 -- ----------------------------
 INSERT INTO `me_tag` VALUES ('1', '/tag/java.png', 'Java');
-INSERT INTO `me_tag` VALUES ('2', '/tag/', 'Spring');
+INSERT INTO `me_tag` VALUES ('2', '/tag/spring-logo.png', 'Spring');
 INSERT INTO `me_tag` VALUES ('3', '/tag/hibernate.svg', 'Hibernate');
 INSERT INTO `me_tag` VALUES ('4', '/tag/maven.png', 'Maven');
 INSERT INTO `me_tag` VALUES ('5', '/tag/html.png', 'Html');
